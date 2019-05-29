@@ -23,6 +23,7 @@ function gotoshow() {
 var slideshowspeed=2000;
 var index=0;
 function slideit() {
+    document.getElementById("sliderButton").innerHTML="";
     var image = document.getElementById("slider");
     var imageURL = document.getElementById("imageURL");
     var imageCaption = document.getElementById("wonder-caption");
