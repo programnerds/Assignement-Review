@@ -1,0 +1,36 @@
+#slider {
+    vertical-align: middle;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#heading-text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    color: chocolate;
+    font-family: Copperplate;
+}
+
+#wonder-caption{
+    text-align: center;
+    color: chocolate;
+    font-family: Copperplate;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+#sliderButton{
+    text-align: center;
+    position: center;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
